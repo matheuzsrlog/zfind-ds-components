@@ -1,0 +1,12 @@
+{
+  "name": "zfind-ds-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "find": "node index.js"
+  },
+  "dependencies": {
+    "glob": "^7.2.0"
+  }
+}

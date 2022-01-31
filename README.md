@@ -9,6 +9,7 @@ usados nos projetos da logcomex.
 2. Realize os inputs/alterações que julgar necessário no arquivo `inputs.js`, para rodar o projeto.
   - Inserção do nome do repositório;
   - Possíveis alterações ou inclusões de novos diretórios a serem buscados;
+3. Rode `yarn`, e depois `yarn find`
 
 ### Inserção do nome do repositório:
 

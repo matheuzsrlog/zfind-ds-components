@@ -1,5 +1,5 @@
 
-# Find components design-system
+# 🔎 Find components design-system
 
 Este projeto é destinado a mapear os componentes do design-system que são
 usados nos projetos da logcomex.

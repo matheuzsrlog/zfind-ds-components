@@ -9,7 +9,6 @@ usados nos projetos da logcomex.
 2. Realize os os inputs/alterações que julgar necessário no arquivo `inputs.js`, para rodar o projeto.
   - Inserção do nome do repositório;
   - Possíveis alterações ou inclusões de novos diretórios a serem buscados;
-<br>
 
 ### Inserção do nome do repositório:
 

@@ -29,3 +29,5 @@ const searchPaths = [
   ...
 ]
 ```
+
+*Curiosamento o nome zfind-ds-components, é porque a princípio, isso ficaria dentro do projeto, e o prefixo `z`, fazia com que ele ficasse como ultimo diretório.(Isso ajudava a encontrá-lo mais fácil kkk)
